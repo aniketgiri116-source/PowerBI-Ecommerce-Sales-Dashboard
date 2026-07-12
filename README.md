@@ -30,7 +30,7 @@ This project is an interactive Ecommerce Sales Dashboard built using Microsoft P
 
 ## 📷 Dashboard Preview
 
-![Dashboard](Png%20dashboard.png)
+![Dashboard](dashboard-preview.png)
 
 ## 📁 Repository Structure
 
