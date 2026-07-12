@@ -43,4 +43,4 @@ This project is an interactive Ecommerce Sales Dashboard built using Microsoft P
 ## 👨‍💻 Author
 **Aniket Giri**
 
-MBA (Marketing) | Power BI | Excel | SQL | Market Research
+MBA (Marketing) |Market Research | Business Intelligence | Power BI | Excel | SQL |
